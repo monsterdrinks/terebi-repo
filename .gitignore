@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+test_scraper*.py
+node_test.js
+package*.json
+deobfuscate_test.py
